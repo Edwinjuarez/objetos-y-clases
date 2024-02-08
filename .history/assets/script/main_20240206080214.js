@@ -1,0 +1,4 @@
+var notasFinales = [50, 60, 80, 90, 100, 90];
+function notas_alumno (calificacion_input) {
+    var suma = 0;
+}

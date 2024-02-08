@@ -1,0 +1,1 @@
+var SumaDeCalificaciones = [70, 80, 60, 50, 40, 55];
