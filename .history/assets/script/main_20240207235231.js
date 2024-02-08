@@ -1,0 +1,36 @@
+var nombre = "edvin juarez";
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+console.log(nombre);
+
+//Quiero saludar
+var nombre = "pedro";
+console.log(nombre);
