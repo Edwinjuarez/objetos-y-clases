@@ -22,6 +22,4 @@ let perro = {
     "Raza": "labrador",
     "edad": 4,
     "peso":8,
-};
-
-console.log (perro);
+}

@@ -11,17 +11,4 @@ let Apellido = "juarez mejia";
 console.log(nombre +" "+ Apellido);
 
 //esta es la manera de concatenar String con String template.....
-//las comillas se llaman backtick
 console.log(`nombre: ${nombre} Apellido: ${Apellido}`);
-
-//que es un objeto?
-//son maneras de almacenar mas datos...
-let perro = {
-    "nombre": "willy",
-    "color": "negro",
-    "Raza": "labrador",
-    "edad": 4,
-    "peso":8,
-};
-
-console.log (perro);
